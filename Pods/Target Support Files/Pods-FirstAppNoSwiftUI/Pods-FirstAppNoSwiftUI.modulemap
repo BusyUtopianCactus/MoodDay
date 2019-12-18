@@ -1,0 +1,6 @@
+module Pods_FirstAppNoSwiftUI {
+  umbrella header "Pods-FirstAppNoSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
